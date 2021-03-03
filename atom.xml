@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-03-01T13:57:07.832Z</updated>
+  <updated>2021-03-03T15:09:04.752Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://example.com/2021/03/01/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87/"/>
     <id>http://example.com/2021/03/01/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87/</id>
     <published>2021-03-01T13:54:39.000Z</published>
-    <updated>2021-03-01T13:57:07.832Z</updated>
+    <updated>2021-03-03T15:09:04.752Z</updated>
     
     <content type="html"><![CDATA[<p>##第一</p><p>大大滴<br>/us/bin/bash: q: command not found</p><p>/usr/bin/bash: q: command not found</p>]]></content>
     
@@ -36,6 +36,10 @@
     
     
     
+    <category term="测试" scheme="http://example.com/categories/%E6%B5%8B%E8%AF%95/"/>
+    
+    
+    <category term="测试" scheme="http://example.com/tags/%E6%B5%8B%E8%AF%95/"/>
     
   </entry>
   
